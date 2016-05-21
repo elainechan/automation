@@ -1,0 +1,2 @@
+# automation
+Automated content generation
