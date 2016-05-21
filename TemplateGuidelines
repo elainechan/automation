@@ -1,0 +1,145 @@
+
+Guidelines For Building Templates
+
+Contents
+I. Data Structure
+II. Text Body Structure
+III. Syntax: Common Synonyms
+	A. Movement of data
+	B. Create and state relationships between data points
+C. Provide Context and Color
+D. Describe magnitude
+IV. Semantic Variation
+
+I. Data Structure
+•	date
+•	market
+•	thirtyFixed
+•	thirtyDiff
+•	fifteenFixed
+•	fifteenDiff
+•	ARM51Rate
+•	ARM51Diff
+•	jumboRate
+•	jumboDiff
+•	monthlyPayment30
+•	monthlyPayment15
+•	monthlyPaymentARM
+•	monthlyPaymentJumbo
+•	nationalThirtyFixed
+•	DiscountOrigPoints
+
+
+II. Text Body Structure
+1. Use the “pyramid” principle, placing the most statistically significant data on the top.
+2. Combine conditions into a single branch.
+3. Use nested synonyms.
+
+
+III. Syntax: Common Synonyms
+
+A. Movement of data
+
+up:
+•	increase
+•	climb
+•	ascend
+•	hike
+•	go up
+•	inch up
+•	tick upwards
+•	boost
+•	shoot up
+•	skyrocket
+
+down:
+•	decrease
+•	decline
+•	drop
+•	dip
+•	slip
+•	slump
+•	teeter
+•	stumble
+•	tumble
+•	go down
+•	tick downwards
+
+neutral:
+•	unchanged
+•	same
+•	level
+•	sideways
+•	hold steady
+•	stay in place
+•	remain
+
+B. Create and state relationships between data points
+
+Contrast: 
+•	while…still
+•	however
+•	but
+•	even though
+•	even if
+•	even so
+•	although
+•	though
+•	nevertheless
+•	nonetheless
+•	instead
+•	otherwise
+	
+Addition/agreement/similarity: 
+•	not only…but
+•	also
+•	in addition to
+•	as well as
+•	moreover
+•	furthermore
+•	similarly
+•	besides
+•	finally
+•	next
+
+Sequence/causation:
+•	since
+•	therefore
+•	because
+•	so that
+•	that is why
+•	consequently
+•	hence
+•	thereafter
+•	then
+
+C. Provide Context and Color
+
+Declarative qualifiers:
+•	probably
+•	likely
+•	Now, …
+•	namely
+•	generally
+•	normally
+•	in general
+•	usually
+•	under ordinary circumstances
+•	often
+•	mostly
+
+D. Describe magnitude
+
+•	astonishing
+•	astounding
+•	staggering
+•	startling
+•	surprising
+
+IV. Semantic Variation
+
+A. Comparison
+
+Compare between current period and N number of previous periods
+“30-year rate has been in decline for six consecutive months…”
+
